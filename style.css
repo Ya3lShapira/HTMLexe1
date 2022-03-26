@@ -3,6 +3,12 @@
 	width: 100%;
 }
 
+#logo{
+  width: 90px;
+  height: 46px;
+  float: left;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
